@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepakver484
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning data anatics
+- 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on project of data science
 - 📫 connect with me at deepakkumarverma484@gmail.com
 
