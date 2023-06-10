@@ -43,7 +43,28 @@ Feel free to explore my repositories to see my projects and contributions in the
 
 ## Projects
 
-* ### [Airbnb Scheduling Forecast](https://github.com/juniorcl/airbnb-scheduling-forecast)
+* ### [Investment-Adivsor](https://github.com/deepakver484/Investment-Advisor)
 
-    To help the booking of the Airbnb this data science project aim to create a machine learning model to predict the first booking of a new user. Unfortunately the database is very desbalanced which difficult the prediction of the model, the best result was 17.48% +/- 0.4% of accuracy. Therefore new approaches guided by the business will be necessary to improve the results.
+    The Investment Advisor project utilizes income and expense data from users, combined with BSE500 stock market data, to provide personalized investment advice. Using Python and Google Sheets integration, it performs computations, generates insightful reports, and creates an intuitive Excel dashboard. The project aims to empower users with data-driven insights for informed investing, backed by a comprehensive PowerPoint presentation.
+    
+  
+* ### [Job-Analytics](https://github.com/deepakver484/Job-Analytics2)
 
+    This project harnesses the power of Selenium and Beautiful Soup to scrape LinkedIn data, followed by data cleaning and preprocessing. Leveraging SQL, insights are extracted and visualized through dynamic dashboards created using Flask and HTML. With a tech stack including Python, Excel, SQL, Tableau, and machine learning, this project unlocks the potential of LinkedIn data for smarter decision-making.
+    
+  
+* ### [Portuguese Bank Term Deposit Prediction](https://github.com/deepakver484/Project-Digverve)
+
+    This project aims to help a Portuguese bank identify existing clients who are more likely to subscribe to a term deposit. The bank is experiencing a revenue decline due to clients not depositing as frequently as before. The bank wants to identify clients who are more likely to subscribe to a term deposit, so they can focus their marketing efforts on such clients.
+    
+
+* ### [Scraper_Projects](https://github.com/deepakver484/scraper_projects)
+
+   Experience the power of web scraping with my collection of scripts in the Scraping Projects Repository. Utilizing the robust capabilities of Beautiful Soup and Selenium, these scripts enable efficient extraction of data from diverse web sources. From Linkdin to Wikipedia, unleash the potential of web data for analysis, visualization, and more.
+    
+
+* ### [ETL_Projects](https://github.com/deepakver484/ETL_Projects)
+
+    Simplify your data integration tasks with our ETL Projects Repository. Discover a collection of powerful ETL scripts that streamline the extraction, transformation, and loading of data from diverse sources. From APIs to databases, leverage these scripts to enhance the efficiency and reliability of your data integration workflows.
+    
+  
