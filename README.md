@@ -1,9 +1,9 @@
 # Hi there 👋! I'm Deepak Kumar Verma #
 
 
-<p align="center">
-**Instructional Associate and Data analyst**
-</p>
+<h3 align="center">
+ Instructional Associate and Data analyst 
+</h3>
 
 - 👋 Hi, I’m @deepakver484
 - 👀 I’m interested in Data Science & Data engineering
