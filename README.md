@@ -1,19 +1,124 @@
-# Hi there 👋! I'm Deepak Kumar Verma #
+<h1 align="center">Hi there 👋! I'm Deepak Kumar Verma</h1>
 
-<h3 align="center">
- Instructional Associate and Data Analyst 
-</h3>
-<h3 align="center">
- Instructional Associate and Data Analyst 
-</h3>
+<h3 align="center"><i>Insturctional Associate and Data Analyst</i></h3>
 
-- 👋 Hi, I’m @deepakver484
-- 👀 I’m interested in Data Science & Data engineering
-- 🌱 I’m currently Working as a data analyst
-- 💞️ I’m looking to collaborate on project of data science
-- 📫 connect with me at deepakkumarverma484@gmail.com
+<div align="center">
 
-<!---
-deepakver484/deepakver484 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakkumarverma484/)&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:deepakkumarverma484@gmail.com)](mailto:deepakkumarverma484@gmail.com)&nbsp;&nbsp;
+
+</div>
+
+<br>
+
+Hey there! I'm thrilled to have you visit my GitHub profile. As a data enthusiast, I have a passion for extracting insights and building data-driven solutions. Whether it's analyzing complex datasets or designing robust data infrastructure, I love diving into the world of data.
+
+With a strong background in data analysis, I excel at uncovering valuable insights and making data-driven decisions. I specialize in data manipulation, statistical analysis, and visualization, bringing clarity and actionable results to complex problems.
+
+On the other hand, as a data engineer, I focus on designing scalable data infrastructure and pipelines. I ensure that organizations can efficiently store, process, and access their data assets with a keen eye on reliability and data quality.
+
+Feel free to explore my repositories to see my projects and contributions in the exciting realm of data. I'm always open to collaborations and eager to contribute to the data community. Don't hesitate to reach out if you have any questions or exciting opportunities. Let's unlock the power of data together!
+
+### Analytics Tools
+
+* **Data Collection and Storage:** SQL, MySQL and Mongodb.
+
+* **Data Processing and Analytics:** Python, Pandas, Numpy, and NLTK.
+
+* **Development:** Git, Docker.
+
+* **Data Visualization:** Seaborn, Matplotlib, Tableau and Metabase.
+
+* **Machine Learning Modeling:** Classification, Regression, and Clusterization.
+
+* **Machine Learning Deployment:** Flask, and pythonanywhere.
+
+* **Webscraping** Selenium web-driver, Beautifulsoup, and requests.
+
+* **Automation tool** Selenium.
+
+* **Python Library** Pymysql, Pyodbc, Gspread, SqlAlchemy, Scikitlearn, Scipy, NLTK.
+
+* **Tool:** Excel, VScode, Jupyter, Postman, SQL Workbench, MS Sql Server, Mongodb Compass, Json. 
+
+## Data Science Projects
+
+* ### [Airbnb Scheduling Forecast](https://github.com/juniorcl/airbnb-scheduling-forecast)
+
+    To help the booking of the Airbnb this data science project aim to create a machine learning model to predict the first booking of a new user. Unfortunately the database is very desbalanced which difficult the prediction of the model, the best result was 17.48% +/- 0.4% of accuracy. Therefore new approaches guided by the business will be necessary to improve the results.
+
+* ### [Health Insurance Cross Sell](https://github.com/juniorcl/health-insurance-cross-sell)
+
+    To help the sales team, this data science project was created to sort a list to improve the cross-selling. The model was able to organize that almost all interested customers (98.31% +/- 0.16%) stay on up to 50% of the list, saving half of the expenses incurred for calls. So, if each call costs R\$ 15.00 in 20,000.00 there is an expense of R\$ 300,000.00. Using the model it is possible to spend only R\$ 150,000.00.
+
+* ### [Transaction Fraud Detection](https://github.com/juniorcl/transaction-fraud-detection)
+
+    Financial transactions fraud is one of the biggest problems faced by financial institutions. Thus, this project uses data science and machine learning to detect and avoid fraudulent transactions. The model got a precision of 96.3% +/- 0.7% and a recall of 76.3% +/- 3.5%. The profit expected by the company is R\$ 57,251,574.44.
+
+* ### [Churn Prediction](https://github.com/juniorcl/churn-prediction)
+
+    When a client churns, it represents a problem, which results in money loss for the company. In this project, I created a solution using data to predict such behavior and avoid it. The machine learning model was able to detect 76.5% of the client which could churn, by using unseen data as example. It represents a recovery of R\$ 2,878,197.97 for the company.
+
+* ### [Cardiovascular Disease Prediction](https://github.com/juniorcl/cardiovascular-disease-prediction)
+
+    Cardio Catch Disease is a company specialized in detecting heart diseases in early stages. For every 5% above 50% of prediction accuracy, there is an increase of 50% on the value charged per client. So, in this data science project, I created a model with a recognition rate of 71.8% +/- 0.5% and the estimated profit generated by using this model may be about R\$ 11,285,500.00.
+
+* ### [Rossman Store Sales](https://github.com/juniorcl/rossman-store-sales)
+
+    To ideate a new strategy of investments in for each sale store may be difficult. Therefore, to help the stack holders to make decisions about individual investments for each and every store in the chain, this data science project created a machine learning model able to predict the sales up to six weeks in advance. Hence, enabling them to calculate the profit per store and the amount of money available to invest.
+
+## Data Engineering Projects
+
+* ### [Bookclub Data Storing](https://github.com/juniorcl/bookclub-data-storing)
+
+    The Bookclub doesn't collect the data from its website, however they are updated with each purchase, sale or exchange that takes place on the website. For this purpose, this project aims to collect, transforma and load (ETL) data from the website [books.toscrape](https://books.toscrape.com/) for a MySQL database. The ETL is schenduled using Airflow. Both MySQL and Airflow plataform were active using Docker.
+
+## Blog Posts
+
+* ### [Prevendo Números: Entendendo as métricas R², MAE, MAPE, MSE e RMSE](https://medium.com/data-hackers/prevendo-n%C3%BAmeros-entendendo-m%C3%A9tricas-de-regress%C3%A3o-35545e011e70)
+
+    In the post "Predicting Numbers: Understanding R², MAE, MAPE, MSE, and RMSE Metrics", title in english, I wrote about metrics for regression models. The selected metrics were R², Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), Mean Squared Error (MSE) and Root Mean Squared Error (RMSE). During this post I explain about the calculation of metrics and how to interpret them.
+
+* ### [Indo Além da Acurácia: Entendo a Acurácia Balanceada, Precisão, Recall e F1 score](https://medium.com/data-hackers/indo-al%C3%A9m-da-acur%C3%A1cia-entendo-a-acur%C3%A1cia-balanceada-precis%C3%A3o-recall-e-f1-score-c895e55a9753)
+
+    The post "Going Beyond Accuracy: Understanding Balanced Accuracy, Precision, Recall and F1 score", title in english, I wrote about metrics to avaliate models of classification. The metrics covered were Balanced Accuracy, Precision, Recall and F1 score. During the post, I talk about how to calculate these metrics and understand them.
+
+<!--
+## Kaggle
+
+* ### [Digit Recognizer with Le-Net 5 Architecture](https://www.kaggle.com/juniorcl/lenet-5-cnn-architecture-digit-recognizer)
+
+    Notebook which I show the creation of the LeNet-5 CNN for the digits recognizer competition. This architecture got a accuracy of 0.99214.   
+
+* ### [Digit Recognizer Competition with CNN](https://www.kaggle.com/juniorcl/cnn-digit-recognizer-0-99178-score)
+
+    A Notebook which I demonstrate how I created a Convolution Neural Network (CNN) to recognize digits during the Kaggle competition. The neural network got a accuracy of 0.99178.
+
+* ### [Diabetes Prediction with Tuned Gradient Boosting Model](https://www.kaggle.com/juniorcl/diabetesclassification-tunedgradientboosting-90)
+
+    A tutorial on creating a machine learning model to predict whether a person may be diabetic or not.The Gradient Boosting model got a accuracy of 0.893 +/- 0.024. 
+
+* ### [ENEM Math Score](https://www.kaggle.com/juniorcl/mathenemscores-linearregression-accuracy-90)
+
+    A machine learning project to predict the math score from the ENEM (Exame Nacional do Ensino Médio - National High School Exam). The model got a acuracy of 90%.
+-->
+<!--
+<div style="display: flex;justify-content: space-around;" align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=juniorcl&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" alt="github stats">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorcl&layout=compact&hide_border=true&title_color=000" alt="clebio languages">
+</div>
+-->
+<!--
+**juniorcl/juniorcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
