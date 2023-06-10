@@ -2,7 +2,7 @@
 
 
 <p align="center">
-// Instructional Associate and Data analyst
+**Instructional Associate and Data analyst**
 </p>
 
 - 👋 Hi, I’m @deepakver484
