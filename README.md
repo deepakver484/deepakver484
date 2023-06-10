@@ -1,8 +1,10 @@
 # Hi there 👋! I'm Deepak Kumar Verma #
 
-
 <h3 align="center">
- Instructional Associate and Data analyst 
+ Instructional Associate and Data Analyst 
+</h3>
+<h3 align="center">
+ Instructional Associate and Data Analyst 
 </h3>
 
 - 👋 Hi, I’m @deepakver484
