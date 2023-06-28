@@ -43,10 +43,6 @@ Feel free to explore my repositories to see my projects and contributions in the
 
 ## Projects
 
-* ### [Investment-Adivsor](https://github.com/deepakver484/Investment-Advisor)
-
-    The Investment Advisor project utilizes income and expense data from users, combined with BSE500 stock market data, to provide personalized investment advice. Using Python and Google Sheets integration, it performs computations, generates insightful reports, and creates an intuitive Excel dashboard. The project aims to empower users with data-driven insights for informed investing, backed by a comprehensive PowerPoint presentation.
-    
   
 * ### [Job-Analytics](https://github.com/deepakver484/Job-Analytics2)
 
@@ -70,3 +66,8 @@ Feel free to explore my repositories to see my projects and contributions in the
 * ### [Backend_System_Project](https://github.com/deepakver484/Backend_System_Project)
 
   The repository consists of multiple projects that address diverse functionalities and modules. Each project focuses on a specific aspect and provides standalone solutions that can be used independently or combined to develop robust applications.
+
+
+* ### [Investment-Adivsor](https://github.com/deepakver484/Investment-Advisor)
+
+    The Investment Advisor project utilizes income and expense data from users, combined with BSE500 stock market data, to provide personalized investment advice. Using Python and Google Sheets integration, it performs computations, generates insightful reports, and creates an intuitive Excel dashboard. The project aims to empower users with data-driven insights for informed investing, backed by a comprehensive PowerPoint presentation.
