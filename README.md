@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋! I'm Deepak Kumar Verma</h1>
 
 <h3 align="center"><i>Insturctional Associate and Data Analyst</i></h3>
-
+<div align="center">
+  <img height="300" src="https://digitalnext.co.uk/wp-content/uploads/2020/10/bi-dashboard.gif"  />
+</div>
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakkumarverma484/)&nbsp;&nbsp;
