@@ -73,3 +73,4 @@ Feel free to explore my repositories to see my projects and contributions in the
 * ### [Investment-Adivsor](https://github.com/deepakver484/Investment-Advisor)
 
     The Investment Advisor project utilizes income and expense data from users, combined with BSE500 stock market data, to provide personalized investment advice. Using Python and Google Sheets integration, it performs computations, generates insightful reports, and creates an intuitive Excel dashboard. The project aims to empower users with data-driven insights for informed investing, backed by a comprehensive PowerPoint presentation.
+
