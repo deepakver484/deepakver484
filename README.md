@@ -23,15 +23,15 @@ Feel free to explore my repositories to see my projects and contributions in the
 
 ### Analytics Tools
 
-* **Data Collection and Storage:** SQL, MySQL and Mongodb.
+* **Data Collection and Storage:** SQL, MySQL, Postgresql and Mongodb.
 
 * **Data Processing and Analytics:** Python, Pandas, Numpy, and NLTK.
 
 * **Development:** Git, Docker.
 
-* **Data Visualization:** Seaborn, Matplotlib, Tableau and Metabase.
+* **Data Visualization:** Seaborn, Matplotlib, Tableau, Metabase, Superset, PowerBi, Microsoft Excel.
 
-* **Machine Learning Modeling:** Classification, Regression, and Clusterization.
+* **Machine Learning Modeling:** Classification, Regression, and Clustering.
 
 * **Machine Learning Deployment:** Flask, and pythonanywhere.
 
@@ -39,9 +39,9 @@ Feel free to explore my repositories to see my projects and contributions in the
 
 * **Automation tool** Selenium.
 
-* **Python Library** Pymysql, Pyodbc, Gspread, SqlAlchemy, Scikitlearn, Scipy, NLTK.
+* **Python Library** Pymysql, Pyodbc, Gspread, SqlAlchemy, Scikitlearn, Scipy, NLTK, Pandas, Numpy, Matplotlib, Seaborn, Pyspark.
 
-* **Tool:** Excel, VScode, Jupyter, Postman, SQL Workbench, MS Sql Server, Mongodb Compass, Json. 
+* **Tool:** Excel, VScode, Jupyter, Postman, SQL Workbench, MS Sql Server, Mongodb Compass, Json, Postgres admin, PowerBi, Tableau, DBT, Airflow. 
 
 ## Projects
 
