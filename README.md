@@ -74,3 +74,8 @@ Feel free to explore my repositories to see my projects and contributions in the
 
     The Investment Advisor project utilizes income and expense data from users, combined with BSE500 stock market data, to provide personalized investment advice. Using Python and Google Sheets integration, it performs computations, generates insightful reports, and creates an intuitive Excel dashboard. The project aims to empower users with data-driven insights for informed investing, backed by a comprehensive PowerPoint presentation.
 
+<div id="stats">
+  <h2>Stats</h2>
+  <img src="https://streak-stats.demolab.com?user=deepakver484&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakver484&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</div>
