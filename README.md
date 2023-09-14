@@ -25,29 +25,31 @@ Feel free to explore my repositories to see my projects and contributions in the
 <Br>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/deepakver484/assets/blob/main/icons8-microsoft-sql-server.svg" title="SqlServer" alt="SqlServer" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SqlAlchemy" alt="SqlAlchemy" width="40" height="40"/>&nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Sklearn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Pyspark" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg"  title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"  title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg"  title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/deepakver484/assets/blob/main/icons8-excel.svg"  title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/deepakver484/assets/blob/main/icons8-power-bi.svg"  title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/deepakver484/assets/blob/main/icons8-tableau-software.svg"  title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/deepakver484/assets/blob/main/metabase-svgrepo-com.svg"  title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Superset_logo.svg"  title="SuperSet" alt="SuperSet" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/deepakver484/assets/blob/main/icons8-microsoft-sql-server.svg" title="SqlServer" alt="SqlServer" width="50" height="50"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SqlAlchemy" alt="SqlAlchemy" width="50" height="50"/>&nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Sklearn" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Pyspark" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg"  title="Anaconda" alt="Anaconda" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"  title="Jupyter" alt="Jupyter" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  title="Vscode" alt="Vscode" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg"  title="Slack" alt="Slack" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/deepakver484/assets/blob/main/icons8-excel.svg"  title="Excel" alt="Excel" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/deepakver484/assets/blob/main/Dbt.svg"  title="Dbt" alt="Dbt" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/deepakver484/assets/blob/main/postman-icon-svgrepo-com.svg"  title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/deepakver484/assets/blob/main/icons8-power-bi.svg"  title="PowerBI" alt="PowerBI" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/deepakver484/assets/blob/main/icons8-tableau-software.svg"  title="Tableau" alt="Tableau" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/deepakver484/assets/blob/main/metabase-svgrepo-com.svg"  title="Metabase" alt="Metabase" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Superset_logo.svg"  title="SuperSet" alt="SuperSet" width="50" height="50"/>&nbsp;
   <div>
     
 <Br>
