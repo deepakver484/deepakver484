@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋! I'm Deepak Kumar Verma</h1>
 
-<h3 align="center"><i>Insturctional Associate and Data Analyst</i></h3>
+<h3 align="center"><i>Sr. Data Analyst @Search My Expert</i></h3>
 <div align="center">
   <img height="300" src="https://digitalnext.co.uk/wp-content/uploads/2020/10/bi-dashboard.gif"  />
 </div>
